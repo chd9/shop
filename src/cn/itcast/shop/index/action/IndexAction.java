@@ -12,7 +12,7 @@ import com.opensymphony.xwork2.ActionSupport;
 
 /**
  * 首页访问的Action
- * @author 传智.郭嘉
+ * @author donnie99
  *
  */
 public class IndexAction extends ActionSupport{

@@ -10,7 +10,7 @@ import com.opensymphony.xwork2.interceptor.MethodFilterInterceptor;
 
 /**
  * 权限拦截器:
- * @author 传智.郭嘉
+ * @author donnie99
  *
  */
 public class PrivilegeInterceptor extends MethodFilterInterceptor{

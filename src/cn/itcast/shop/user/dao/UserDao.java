@@ -10,7 +10,7 @@ import cn.itcast.shop.utils.PageHibernateCallback;
 /**
  * 用户模块持久层代码:
  * 
- * @author 传智.郭嘉
+ * @author donnie99
  * 
  */
 public class UserDao extends HibernateDaoSupport {

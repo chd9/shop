@@ -7,7 +7,7 @@ import cn.itcast.shop.order.vo.Order;
 
 /**
  * 用户名模块实体类:
- * @author 传智.郭嘉
+ * @author donnie99
  *CREATE TABLE `user` (
   `uid` int(11) NOT NULL AUTO_INCREMENT,
   `username` varchar(255) DEFAULT NULL,

@@ -12,7 +12,7 @@ import com.opensymphony.xwork2.ActionSupport;
 /**
  * 购物车Action
  * 
- * @author 传智.郭嘉
+ * @author donnie99
  * 
  */
 public class CartAction extends ActionSupport {

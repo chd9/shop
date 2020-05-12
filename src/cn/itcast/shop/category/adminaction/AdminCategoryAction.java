@@ -11,7 +11,7 @@ import com.opensymphony.xwork2.ModelDriven;
 
 /**
  * 后台一级分类管理Action
- * @author 传智.郭嘉
+ * @author donnie99
  *
  */
 public class AdminCategoryAction extends ActionSupport implements ModelDriven<Category>{

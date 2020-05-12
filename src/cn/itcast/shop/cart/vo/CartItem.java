@@ -4,7 +4,7 @@ import cn.itcast.shop.product.vo.Product;
 
 /**
  * 购物项对象
- * @author 传智.郭嘉
+ * @author donnie99
  *
  */
 public class CartItem {

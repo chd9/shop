@@ -13,7 +13,7 @@ import com.opensymphony.xwork2.ModelDriven;
 
 /**
  * 后台订单管理的Action
- * @author 传智.郭嘉
+ * @author donnie99
  *
  */
 public class AdminOrderAction extends ActionSupport implements ModelDriven<Order>{

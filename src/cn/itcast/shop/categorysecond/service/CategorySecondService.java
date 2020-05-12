@@ -11,7 +11,7 @@ import cn.itcast.shop.utils.PageBean;
 /**
  * 二级分类的业务层代码
  * 
- * @author 传智.郭嘉
+ * @author donnie99
  * 
  */
 @Transactional

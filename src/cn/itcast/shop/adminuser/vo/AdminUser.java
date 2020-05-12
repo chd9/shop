@@ -1,7 +1,7 @@
 package cn.itcast.shop.adminuser.vo;
 /**
  * 后台用户登录实体
- * @author 传智.郭嘉
+ * @author donnie99
  *
  */
 public class AdminUser {

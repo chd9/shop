@@ -8,7 +8,7 @@ import cn.itcast.shop.product.vo.Product;
 
 /**
  * 二级分类的实体
- * @author 传智.郭嘉
+ * @author donnie99
  *
  */
 public class CategorySecond {

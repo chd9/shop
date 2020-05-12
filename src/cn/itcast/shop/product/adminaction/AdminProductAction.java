@@ -21,7 +21,7 @@ import com.opensymphony.xwork2.ModelDriven;
 /**
  * 后台商品管理的Action
  * 
- * @author 传智.郭嘉
+ * @author donnie99
  * 
  */
 public class AdminProductAction extends ActionSupport implements

@@ -8,7 +8,7 @@ import cn.itcast.shop.user.vo.User;
 
 /**
  * 订单实体
- * @author 传智.郭嘉
+ * @author donnie99
  *CREATE TABLE `orders` (
   `oid` int(11) NOT NULL AUTO_INCREMENT,
   `total` double DEFAULT NULL,

@@ -21,7 +21,7 @@ import com.opensymphony.xwork2.ModelDriven;
 /**
  * 订单Action类
  * 
- * @author 传智.郭嘉
+ * @author donnie99
  * 
  */
 public class OrderAction extends ActionSupport implements ModelDriven<Order> {
